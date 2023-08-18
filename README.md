@@ -7,12 +7,11 @@ some small east west
 看完一話會自動跳下一話ㄛ  
 
 ## requirements 
-'''
-pip install selenium
+
+'''pip install selenium
 git clone https://github.com/yuvictoria0412/smalleastwest.git
 python .\auto-generate-anime.py
-輸入第一頁網址
-'''
+輸入第一頁網址'''
 
 ## support website
 動漫狂 https://www.cartoonmad.com
