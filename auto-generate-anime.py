@@ -16,7 +16,7 @@ try:
         driver.get(current_url) # open url
         driver.execute_script("document.body.style.zoom = '50%'")   # adjust driver size
 
-        time.sleep(6)   # read duration
+        time.sleep(7)   # read duration
 
         ## next page
         body = driver.find_element("tag name", "body") 
