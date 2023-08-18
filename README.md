@@ -1,8 +1,8 @@
-# smalleastwest
+# small east west
 some small east west
 
 # requirements 
 pip install selenium
 
-# web
-動漫狂
+# support website
+動漫狂 https://www.cartoonmad.com
