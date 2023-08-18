@@ -9,9 +9,9 @@ some small east west
 ## requirements 
 
     pip install selenium  
-git clone https://github.com/yuvictoria0412/smalleastwest.git  
-python .\auto-generate-anime.py  
-輸入第一頁網址
+    git clone https://github.com/yuvictoria0412/smalleastwest.git  
+    python .\auto-generate-anime.py  
+    輸入第一頁網址
 
 
 ## support website
