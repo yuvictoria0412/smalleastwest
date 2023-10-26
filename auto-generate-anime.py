@@ -9,12 +9,12 @@ driver.maximize_window()
 
 try:
     # first page url
-    current_url = input("please enter the first page url: ")
-    # current_url = "https://www.cartoonmad.com/comic/765400912019001.html"
+    # current_url = input("please enter the first page url: ")
+    current_url = "https://www.cartoonmad.com/comic/765401162016002.html"
     
     while(1):
         driver.get(current_url) # open url
-        driver.execute_script("document.body.style.zoom = '50%'")   # adjust driver size
+        driver.execute_script("document.body.style.zoom = '55%'")   # adjust driver size
 
         time.sleep(7)   # read duration
 
